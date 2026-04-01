@@ -56,8 +56,5 @@
 
 
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manokamna25&theme=tokyonight&no-frame=true&no-bg=true" />
-</p>
+
 
