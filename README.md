@@ -1,8 +1,12 @@
-# 💫 Hi 👋, I'm Manokamna
+<h1 align="center">💫 Hi 👋, I'm Manokamna!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Generative+AI+%26+LLMs;ECE+Undergrad+%40+IGDTUW;Turning+Coffee+into+Code+☕" alt="Typing SVG animation" />
+</p>
 
 🎓 **B.Tech in Electronics and Communication Engineering (ECE) @ IGDTUW | 2023–2027**  
 
-🚀 Building scalable Full-Stack Apps, AI Agents, & SaaS platforms.  
+🚀 Building scalable Full-Stack Apps, AI Agents, & Next-Gen SaaS platforms.  
 🧠 Exploring the amazing intersection of Web Development and Generative AI.  
 ✨ Transforming complex problems into elegant, optimized code.  
 
@@ -27,7 +31,8 @@
 ---
 
 ### 🌐 Socials
-<p align="left">
+
+<p align="center">
 <a href="mailto:aroramoney473@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="YOUR_LINKEDIN_URL_HERE" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="YOUR_LEETCODE_URL_HERE" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode" /></a>
@@ -54,7 +59,22 @@
 
 ---
 
+### 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manokamna25&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manokamna25&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manokamna25&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manokamna25&theme=tokyonight&no-bg=true&margin-w=15" />
+</p>
 
-
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40" height="40">
+  <i>Let's connect and build something awesome together! 🌟</i>
+</p>
