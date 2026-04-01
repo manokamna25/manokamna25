@@ -54,22 +54,7 @@
 
 ---
 
-### 🐍 Snake Eating My Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manokamna25/manokamna25/output/github-contribution-grid-snake.svg" alt="Snake Graph" />
-</p>
-
-*(Note: To make the snake actually move, you will need to set up a GitHub Action later, but this reserves the space perfectly!)*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manokamna25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manokamna25&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
